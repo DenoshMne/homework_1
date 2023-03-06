@@ -34,8 +34,8 @@ def get_shop_list_by_dishes(dishes: list, person_count=1):
 print(make_cook_book())
 print(get_shop_list_by_dishes(['Запеченный картофель', 'Омлет'], 2))
 
-path = 'C:\\Users\\denos\\Desktop\\Нетология\\ФАЙЛЫ\\'
-path_2 = 'C:\\Users\\denos\\Desktop\\Нетология\\ФАЙЛЫ\\4.txt'
+path = 'C:\\Users\\denos\\PycharmProjects\\pythonProject3\\ФАЙЛЫ\\'
+path_2 = 'C:\\Users\\denos\\PycharmProjects\\pythonProject3\\ФАЙЛЫ\\4.txt'
 
 
 def create_files(path):
